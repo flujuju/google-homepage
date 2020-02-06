@@ -1,0 +1,1 @@
+Ceci est mon premier projet dans le cadre du Odin project. Le but est de recréer la page d'accueil de google, sans les liens. 
